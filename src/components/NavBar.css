@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Unlock");
+
+nav {
+  background: linear-gradient(to right bottom, #fff5ee, #00bfff);
+  border-right: solid 3px #ffefd5;
+  border-bottom: solid 5px #ffefd5;
+}
+
+.container {
+  width: 900px;
+}
+
+.navbar-brand {
+  padding: 20px 0;
+}
+
+#brand {
+  color: #483d8b;
+  font-size: 30px;
+  font-family: "Unlock", cursive;
+  font-style: italic;
+}
+
+#search {
+  border: solid 2px grey;
+}
+
+.btn {
+  background-color: orange;
+  border: solid 2px grey;
+}
